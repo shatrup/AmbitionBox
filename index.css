@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: lightgray;
+  }
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+  }
+
+  .contact-form {
+    background: #ffffff;
+    border: 1px solid #42464b;
+    border-radius: 6px;
+    height: 257px;
+    margin: 20px auto 0;
+    width: 350px;
+  }
+
+  #txtbox
+  {
+   font-size:18pt;
+   height:25px;
+   width:300px;
+  }
+
+  .formus{
+      padding-top: 18px;
+      text-align: left;
+      padding-left: 12px;
+  }
+  
+  button {
+    background-color: rgb(24, 113, 248);
+    color: white;
+    padding: 8px 20px;
+    margin: 10px 63px;
+    border: cornflowerblue;
+    cursor: pointer;
+    width: 100%;
+  }
+
+  .backup{
+    padding-top: 18px;
+    text-align: center; 
+    padding-right: 150px;
+
+  }
